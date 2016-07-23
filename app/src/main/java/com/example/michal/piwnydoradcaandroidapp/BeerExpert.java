@@ -1,12 +1,7 @@
 package com.example.michal.piwnydoradcaandroidapp;
 
-import android.support.annotation.NonNull;
-
 import java.util.ArrayList;
-import java.util.Collection;
-import java.util.Iterator;
 import java.util.List;
-import java.util.ListIterator;
 
 /**
  * Created by Michał on 23.07.2016.
